@@ -1,5 +1,6 @@
 ## Lesson 20
 > Imagine you can understand most people in the world.
+
 | Word | Meaning |
 | ---- | ---- |
 | draft | a former version of something to make final |

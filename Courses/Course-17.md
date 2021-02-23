@@ -1,5 +1,6 @@
 ## Lesson 17
 > Everybody's gonna die.
+
 | Word | Meaning |
 | ---- | ---- |
 | confidence | a feeling or belief that you can do something well or succeed at something |

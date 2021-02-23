@@ -1,5 +1,6 @@
 ## Lesson 23
 > The way I see it, if you want the rainbow, you gotta put up with the rain.
+
 | Word | Meaning |
 | ---- | ---- |
 | trail | a path through the countryside, often where people walk |

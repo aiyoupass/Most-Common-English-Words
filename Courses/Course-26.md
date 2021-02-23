@@ -1,5 +1,6 @@
 ## Lesson 26
 > How could this happen?I made my mistakes, got nowhere to run, the night goes on.
+
 | Word | Meaning |
 | ---- | ---- |
 | classical | music by people like Mozart and Stravinsky; traditional in style |

@@ -1,5 +1,6 @@
 ## Lesson 18
 > Pain doesn't tell you when you ought to stop.
+
 | Word | Meaning |
 | ---- | ---- |
 | personality | the way you are as a person |

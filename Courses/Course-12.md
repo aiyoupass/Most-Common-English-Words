@@ -1,5 +1,6 @@
 ## Lesson 12
 > Stay hungry. Stay Foolish
+
 | Word | Meaning |
 | ---- | ---- |
 | flow | to move in a steady and continuous way |

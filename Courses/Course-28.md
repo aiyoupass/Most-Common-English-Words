@@ -1,5 +1,6 @@
 ## Lesson 28
 > I just wanna scream
+
 | Word | Meaning |
 | ---- | ---- |
 | trick | an action that is meant to deceive someone |

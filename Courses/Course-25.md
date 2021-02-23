@@ -1,5 +1,6 @@
 ## Lesson 25
 > Everybody is alone.But it doesn't means you can't be happy.
+
 | Word | Meaning |
 | ---- | ---- |
 | survival | when someone or something continues to live or exist, especially after a difficult or dangerous situation |

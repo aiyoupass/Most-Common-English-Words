@@ -1,5 +1,6 @@
 ## Lesson 13
 > Have the courage to follow your heart and intuition.
+
 | Word | Meaning |
 | ---- | ---- |
 | scheme | a clever plan to do or get something |

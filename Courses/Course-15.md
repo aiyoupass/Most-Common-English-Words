@@ -1,5 +1,6 @@
 ## Lesson 15
 > Keep your face to the sun and you will never see the shadows.
+
 | Word | Meaning |
 | ---- | ---- |
 | healthy | physically strong and well; good for your health |

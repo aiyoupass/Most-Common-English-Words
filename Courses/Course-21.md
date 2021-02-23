@@ -1,5 +1,6 @@
 ## Lesson 21
 > Make everyday you live the last day of your life.
+
 | Word | Meaning |
 | ---- | ---- |
 | gay | sexually attracted to someone who is the same sex |

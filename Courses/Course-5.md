@@ -1,5 +1,6 @@
 ## Lesson 5
 > Nobody exists on purpose.
+
 | Word | Meaning |
 | ---- | ---- |
 | note | a brief, short record of something |

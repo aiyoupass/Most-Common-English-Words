@@ -1,5 +1,6 @@
 ## Lesson 24
 > The day goes on.
+
 | Word | Meaning |
 | ---- | ---- |
 | iron | a heavy type of metal that is very common, occurs naturally in blood, and is used to make steel and in many products |

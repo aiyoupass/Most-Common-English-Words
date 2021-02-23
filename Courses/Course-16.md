@@ -1,5 +1,6 @@
 ## Lesson 16
 > Question everything.
+
 | Word | Meaning |
 | ---- | ---- |
 | taste | the sweet, sour, bitter, or salty quality of a thing that you can sense when it is in your mouth |

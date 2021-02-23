@@ -1,5 +1,6 @@
 ## Lesson 4
 > To live is to risk it all.
+
 | Word | Meaning |
 | ---- | ---- |
 | product | something that is made or grown to be sold or used |

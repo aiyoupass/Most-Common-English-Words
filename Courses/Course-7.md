@@ -1,5 +1,6 @@
 ## Lesson 7
 > But what people calls “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage.
+
 | Word | Meaning |
 | ---- | ---- |
 | animal | a living thing that is not a human being or plant |

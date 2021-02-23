@@ -1,5 +1,6 @@
 ## Lesson 22
 > Don't care what others said.They are just others.
+
 | Word | Meaning |
 | ---- | ---- |
 | edition | a book, newspaper, etc. that is one of several that are the same and were produced at the same time |

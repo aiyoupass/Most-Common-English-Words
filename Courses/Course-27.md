@@ -1,5 +1,6 @@
 ## Lesson 27
 > As I'm fading away.....
+
 | Word | Meaning |
 | ---- | ---- |
 | inquiry | a request for information |

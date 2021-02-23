@@ -1,5 +1,6 @@
 ## Lesson 3
 > If you got language, You got key to the world.
+
 | Word | Meaning |
 | ---- | ---- |
 | under | to be below something |

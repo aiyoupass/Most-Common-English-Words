@@ -1,5 +1,6 @@
 ## Lesson 6
 > If you spend all day shuffling words around, you can make anything sound bad.
+
 | Word | Meaning |
 | ---- | ---- |
 | practice | to do something again and again in order to become better at it |

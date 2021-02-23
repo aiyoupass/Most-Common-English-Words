@@ -1,5 +1,6 @@
 ## Lesson 10
 > Better slip with foot than tongue.
+
 | Word | Meaning |
 | ---- | ---- |
 | quarter | one of four equal parts of something |

@@ -1,5 +1,6 @@
 ## Lesson 9
 > Look before, or you'll find yourself behind.
+
 | Word | Meaning |
 | ---- | ---- |
 | loss | failure to keep or to continue to have something |

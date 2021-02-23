@@ -1,5 +1,6 @@
 ## Lesson 19
 > Have you seen Los Angeles at 4am?
+
 | Word | Meaning |
 | ---- | ---- |
 | victory | success in defeating an opponent or enemy |

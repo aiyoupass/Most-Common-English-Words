@@ -1,5 +1,6 @@
 ## Lesson 1
 > The true sign of intelligence is not knowledge but imagination.
+
 | Word | Meaning |
 | ---- | ---- |
 | the | used to point to something already mentioned |

@@ -1,5 +1,6 @@
 ## Lesson 2
 > I have no special talent. I am only passionately curious.
+
 | Word | Meaning |
 | ---- | ---- |
 | need | require because it is essential or important |

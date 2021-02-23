@@ -1,5 +1,6 @@
 ## Lesson 8
 > Love your Enemies, for they tell you your Faults.
+
 | Word | Meaning |
 | ---- | ---- |
 | exactly | completely correct |
