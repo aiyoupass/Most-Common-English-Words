@@ -2,6 +2,8 @@
 我在学习英语的过程中踩过很多坑，包括单词，单词总是背了又忘掉，浪费了大量时间又没有收获。    
 
 专家们研究了英语单词，总结出了一个列表 NGSL(New General Service List)。这个列表涵盖了英语单词日常表达的几乎90%，让你事半功倍。
+
+Make use by practicing, or you'll forget one day.
 ## 目录 Menu
 [Lesson 1](Lessons/Lesson-1.md)
 
