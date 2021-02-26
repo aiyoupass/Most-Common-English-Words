@@ -3,6 +3,8 @@
 
 专家们研究了英语单词，总结出了一个列表 NGSL(New General Service List)。这个列表涵盖了英语单词日常表达的几乎90%，让你事半功倍。
 ## 目录 Menu
+[All Words](Lessons/All.md)
+
 [Lesson 1](Lessons/Lesson-1.md)
 
 [Lesson 2](Lessons/Lesson-2.md)
